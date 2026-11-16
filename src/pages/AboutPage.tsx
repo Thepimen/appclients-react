@@ -17,7 +17,7 @@ export default function AboutPage() {
             <p className="text-body-secondary">
               El proyecto constituye la evolución del módulo <em>AppClients React</em> integrando{' '}
               <strong>React 18 + TypeScript + Vite</strong> para el renderizado reactivo basado en componentes,{' '}
-              <strong>Supabase (`@supabase/supabase-js`)</strong> como backend PostgreSQL y capa de API REST en la nube, y{' '}
+              <strong>Supabase (<code>@supabase/supabase-js</code>)</strong> como backend PostgreSQL y capa de API REST en la nube, y{' '}
               <strong>Bootstrap 5</strong> para ofrecer una interfaz responsiva, limpia y accesible desde cualquier
               dispositivo.
             </p>
